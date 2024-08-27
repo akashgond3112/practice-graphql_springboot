@@ -13,7 +13,7 @@ mkdir data/kafka-kraft
 # change lines to 
 # log.dirs=/your/path/to/data/kafka
 # example
-# log.dirs=/home/stephanemaarek/kafka_2.13-3.1.0/data/kafka-kraft
+# log.dirs=/home/agond/kafka_2.13-3.1.0/data/kafka-kraft
 
 
 # generate a Kafka UUID
